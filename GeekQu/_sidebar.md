@@ -22,6 +22,7 @@
   * [在 ShadowsocksR 上配置](Windows/ShadowsocksR.md)
   * [在 Clash for Windows 上配置](Windows/Clash-for-Windows.md)
   * [在 V2RayN 上配置](Windows/V2RayN.md)
+   * [在 SSTap 上配置](Windows/SSTap.md)
 
 * macOS
 
